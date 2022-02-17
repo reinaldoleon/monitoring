@@ -3,16 +3,14 @@ owner: reinaldoleon # Your GitHub organization or username, where this repositor
 repo: monitoring # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: SmartProtection
-    url: https://smartprotection.com
+  - name: Reinaldo Leon Bio
+    url: https://reinaldoleon.github.io/bio/
   - name: Nubersia
     url: https://nubersia.com
+  - name: SmartProtection
+    url: https://smartprotection.com
+  - name: Zignaly
+    url: https://zignaly.com/
 
 assigness:
   - reinaldoleon
