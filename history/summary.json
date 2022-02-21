@@ -58,19 +58,19 @@
     "url": "https://zignaly.com/",
     "icon": "https://favicons.githubusercontent.com/zignaly.com",
     "slug": "zignaly",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2035,
-    "timeDay": 1257,
-    "timeWeek": 2035,
-    "timeMonth": 2035,
-    "timeYear": 2035,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 2036,
+    "timeDay": 1518,
+    "timeWeek": 2036,
+    "timeMonth": 2036,
+    "timeYear": 2036,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 11
     }
   }
 ]
