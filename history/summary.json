@@ -40,19 +40,19 @@
     "url": "https://smartprotection.com",
     "icon": "https://favicons.githubusercontent.com/smartprotection.com",
     "slug": "smart-protection",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 892,
-    "timeWeek": 663,
-    "timeMonth": 684,
-    "timeYear": 684,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 671,
+    "timeDay": 541,
+    "timeWeek": 595,
+    "timeMonth": 666,
+    "timeYear": 671,
     "dailyMinutesDown": {
-      "2022-03-08": 0
+      "2022-03-08": 10
     }
   },
   {
