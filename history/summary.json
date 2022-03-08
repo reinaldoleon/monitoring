@@ -40,7 +40,7 @@
     "url": "https://smartprotection.com",
     "icon": "https://favicons.githubusercontent.com/smartprotection.com",
     "slug": "smart-protection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 663,
     "timeMonth": 684,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "Zignaly",
