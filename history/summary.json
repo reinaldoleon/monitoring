@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 33,
-    "timeWeek": 82,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 96,
+    "timeDay": 164,
+    "timeWeek": 84,
+    "timeMonth": 96,
+    "timeYear": 96,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1569,
-    "timeDay": 1105,
-    "timeWeek": 1358,
-    "timeMonth": 1587,
-    "timeYear": 1569,
+    "time": 1576,
+    "timeDay": 1840,
+    "timeWeek": 1353,
+    "timeMonth": 1571,
+    "timeYear": 1576,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/smartprotection.com",
     "slug": "smart-protection",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 671,
-    "timeDay": 541,
-    "timeWeek": 595,
-    "timeMonth": 666,
-    "timeYear": 671,
-    "dailyMinutesDown": {
-      "2022-03-08": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 660,
+    "timeDay": 201,
+    "timeWeek": 601,
+    "timeMonth": 633,
+    "timeYear": 660,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Zignaly",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1811,
-    "timeDay": 77,
-    "timeWeek": 1081,
-    "timeMonth": 1811,
-    "timeYear": 1811,
+    "time": 1741,
+    "timeDay": 129,
+    "timeWeek": 811,
+    "timeMonth": 1741,
+    "timeYear": 1741,
     "dailyMinutesDown": {}
   }
 ]
