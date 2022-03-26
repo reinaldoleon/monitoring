@@ -58,7 +58,7 @@
     "url": "https://zignaly.com/",
     "icon": "https://favicons.githubusercontent.com/zignaly.com",
     "slug": "zignaly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 127,
     "timeMonth": 775,
     "timeYear": 1194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-26": 0
+    }
   }
 ]
