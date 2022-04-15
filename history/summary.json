@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 129,
-    "timeWeek": 107,
-    "timeMonth": 103,
+    "timeDay": 79,
+    "timeWeek": 110,
+    "timeMonth": 104,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1551,
-    "timeDay": 1634,
-    "timeWeek": 1562,
-    "timeMonth": 1553,
-    "timeYear": 1551,
+    "time": 1546,
+    "timeDay": 1127,
+    "timeWeek": 1474,
+    "timeMonth": 1551,
+    "timeYear": 1546,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "smart-protection",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.25%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 468,
-    "timeDay": 552,
-    "timeWeek": 286,
-    "timeMonth": 245,
-    "timeYear": 468,
+    "time": 465,
+    "timeDay": 195,
+    "timeWeek": 275,
+    "timeMonth": 248,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2022-04-13": 25
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.51%",
-    "time": 902,
-    "timeDay": 129,
-    "timeWeek": 128,
+    "time": 889,
+    "timeDay": 115,
+    "timeWeek": 122,
     "timeMonth": 274,
-    "timeYear": 902,
+    "timeYear": 889,
     "dailyMinutesDown": {
       "2022-03-26": 393
     }
