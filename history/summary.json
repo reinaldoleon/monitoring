@@ -22,18 +22,20 @@
     "url": "https://nubersia.com",
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1513,
-    "timeDay": 1821,
-    "timeWeek": 1336,
-    "timeMonth": 1546,
-    "timeYear": 1513,
-    "dailyMinutesDown": {}
+    "time": 1536,
+    "timeDay": 5718,
+    "timeWeek": 2371,
+    "timeMonth": 1798,
+    "timeYear": 1536,
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "SmartProtection",
