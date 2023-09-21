@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 24,
-    "timeWeek": 72,
-    "timeMonth": 97,
+    "time": 107,
+    "timeDay": 41,
+    "timeWeek": 74,
+    "timeMonth": 94,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1542,
-    "timeDay": 1064,
-    "timeWeek": 1107,
-    "timeMonth": 1365,
-    "timeYear": 1572,
+    "timeDay": 1109,
+    "timeWeek": 1100,
+    "timeMonth": 1355,
+    "timeYear": 1571,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 462,
-    "timeDay": 249,
-    "timeWeek": 300,
-    "timeMonth": 448,
-    "timeYear": 440,
+    "time": 461,
+    "timeDay": 332,
+    "timeWeek": 315,
+    "timeMonth": 441,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2023-03-10": 38
     }
@@ -60,17 +60,19 @@
     "url": "https://zignaly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 190,
-    "timeWeek": 115,
-    "timeMonth": 614,
+    "time": 578,
+    "timeDay": 255,
+    "timeWeek": 157,
+    "timeMonth": 538,
     "timeYear": 569,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   }
 ]
