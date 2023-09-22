@@ -62,17 +62,15 @@
     "slug": "zignaly",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
     "timeDay": 244,
     "timeWeek": 164,
     "timeMonth": 529,
     "timeYear": 568,
-    "dailyMinutesDown": {
-      "2023-09-21": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
