@@ -22,19 +22,19 @@
     "url": "https://nubersia.com",
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1450,
-    "timeDay": 1229,
-    "timeWeek": 1204,
-    "timeMonth": 1269,
-    "timeYear": 1401,
+    "timeDay": 1130,
+    "timeWeek": 1174,
+    "timeMonth": 1259,
+    "timeYear": 1400,
     "dailyMinutesDown": {
-      "2024-06-25": 0
+      "2024-06-25": 18
     }
   },
   {
