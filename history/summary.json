@@ -66,18 +66,19 @@
     "url": "https://zignaly.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 327,
-    "timeDay": 282,
-    "timeWeek": 282,
-    "timeMonth": 249,
-    "timeYear": 280,
+    "time": 325,
+    "timeDay": 386,
+    "timeWeek": 308,
+    "timeMonth": 257,
+    "timeYear": 281,
     "dailyMinutesDown": {
+      "2024-07-15": 0,
       "2023-09-23": 453
     }
   }
