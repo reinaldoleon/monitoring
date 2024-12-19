@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "91.08%",
+    "uptime": "91.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2024-12-19": 636,
+      "2024-12-19": 648,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
@@ -137,14 +137,14 @@
     "url": "https://smartprotection.com",
     "icon": "https://icons.duckduckgo.com/ip3/smartprotection.com.ico",
     "slug": "smart-protection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "54.87%",
     "uptimeWeek": "53.90%",
-    "uptimeMonth": "88.46%",
+    "uptimeMonth": "88.54%",
     "uptimeYear": "99.04%",
     "time": 420,
-    "timeDay": 407,
+    "timeDay": 402,
     "timeWeek": 398,
     "timeMonth": 407,
     "timeYear": 415,
@@ -157,7 +157,7 @@
       "2024-12-14": 672,
       "2024-12-13": 779,
       "2024-12-12": 708,
-      "2024-12-11": 109
+      "2024-12-11": 76
     }
   },
   {
@@ -177,7 +177,7 @@
     "timeMonth": 115,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2024-12-19": 636,
+      "2024-12-19": 648,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
       "2024-12-16": 1440,
