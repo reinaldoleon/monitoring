@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 1309,
     "dailyMinutesDown": {
-      "2024-12-23": 38,
+      "2024-12-23": 42,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -143,7 +143,7 @@
     "slug": "smart-protection",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "55.14%",
+    "uptimeDay": "55.47%",
     "uptimeWeek": "57.23%",
     "uptimeMonth": "89.99%",
     "uptimeYear": "99.17%",
@@ -181,7 +181,7 @@
     "timeMonth": 111,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-12-23": 38,
+      "2024-12-23": 43,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
