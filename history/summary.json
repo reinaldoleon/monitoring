@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.72%",
+    "uptimeYear": "72.71%",
     "time": 1341,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2024-12-25": 257,
+      "2024-12-25": 287,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
@@ -143,15 +143,15 @@
     "url": "https://smartprotection.com",
     "icon": "https://icons.duckduckgo.com/ip3/smartprotection.com.ico",
     "slug": "smart-protection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "39.05%",
-    "uptimeWeek": "57.18%",
-    "uptimeMonth": "90.15%",
-    "uptimeYear": "99.18%",
-    "time": 414,
-    "timeDay": 384,
-    "timeWeek": 379,
+    "uptimeDay": "40.29%",
+    "uptimeWeek": "57.57%",
+    "uptimeMonth": "90.24%",
+    "uptimeYear": "99.19%",
+    "time": 413,
+    "timeDay": 374,
+    "timeWeek": 378,
     "timeMonth": 400,
     "timeYear": 408,
     "dailyMinutesDown": {
@@ -162,7 +162,7 @@
       "2024-12-21": 522,
       "2024-12-20": 659,
       "2024-12-19": 643,
-      "2024-12-18": 178
+      "2024-12-18": 138
     }
   },
   {
@@ -182,7 +182,7 @@
     "timeMonth": 111,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2024-12-25": 257,
+      "2024-12-25": 288,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
