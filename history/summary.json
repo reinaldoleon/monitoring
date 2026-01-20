@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 81,
-    "timeWeek": 101,
-    "timeMonth": 110,
-    "timeYear": 124,
+    "timeDay": 99,
+    "timeWeek": 104,
+    "timeMonth": 111,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "66.18%",
+    "uptime": "66.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1340,
+    "time": 1364,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-19": 58,
+      "2026-01-20": 53,
+      "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -397,8 +398,7 @@
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
-      "2025-01-21": 1440,
-      "2025-01-20": 1440
+      "2025-01-21": 1440
     }
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 514,
-    "timeDay": 322,
-    "timeWeek": 424,
-    "timeMonth": 448,
-    "timeYear": 550,
+    "time": 515,
+    "timeDay": 438,
+    "timeWeek": 432,
+    "timeMonth": 446,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2025-12-05": 31,
       "2025-08-21": 34,
@@ -429,18 +429,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "down",
-    "uptime": "64.76%",
+    "uptime": "64.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 134,
-    "timeDay": 118,
-    "timeWeek": 137,
-    "timeMonth": 140,
+    "timeDay": 180,
+    "timeWeek": 146,
+    "timeMonth": 142,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2026-01-19": 58,
+      "2026-01-20": 53,
+      "2026-01-19": 1440,
       "2026-01-18": 1440,
       "2026-01-17": 1440,
       "2026-01-16": 1440,
@@ -803,8 +804,7 @@
       "2025-01-24": 1440,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
-      "2025-01-21": 1440,
-      "2025-01-20": 1440
+      "2025-01-21": 1440
     }
   }
 ]
