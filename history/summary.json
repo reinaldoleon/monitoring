@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 93,
-    "timeWeek": 123,
+    "timeDay": 98,
+    "timeWeek": 115,
     "timeMonth": 123,
     "timeYear": 126,
     "dailyMinutesDown": {}
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "64.97%",
+    "uptime": "64.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-15": 69,
+      "2026-02-16": 67,
+      "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
@@ -397,8 +398,7 @@
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
-      "2025-02-17": 1440,
-      "2025-02-16": 1440
+      "2025-02-17": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 519,
-    "timeDay": 625,
-    "timeWeek": 581,
-    "timeMonth": 464,
+    "timeDay": 446,
+    "timeWeek": 550,
+    "timeMonth": 467,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2025-12-05": 31,
@@ -428,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "down",
-    "uptime": "63.56%",
+    "uptime": "63.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 136,
-    "timeDay": 112,
-    "timeWeek": 169,
+    "timeDay": 183,
+    "timeWeek": 177,
     "timeMonth": 154,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2026-02-15": 70,
+      "2026-02-16": 67,
+      "2026-02-15": 1440,
       "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
@@ -802,8 +803,7 @@
       "2025-02-20": 1440,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
-      "2025-02-17": 1440,
-      "2025-02-16": 1440
+      "2025-02-17": 1440
     }
   }
 ]
