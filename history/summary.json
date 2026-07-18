@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 0,
+    "timeDay": 127,
     "timeWeek": 126,
-    "timeMonth": 126,
+    "timeMonth": 125,
     "timeYear": 127,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "58.89%",
+    "uptime": "58.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 87,
+      "2026-07-18": 78,
+      "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -397,8 +398,7 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2025-07-19": 1440,
-      "2025-07-18": 1440
+      "2025-07-19": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 529,
-    "timeDay": 0,
-    "timeWeek": 320,
-    "timeMonth": 417,
-    "timeYear": 521,
+    "timeDay": 576,
+    "timeWeek": 354,
+    "timeMonth": 416,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2025-08-21": 34,
       "2025-12-05": 31,
@@ -429,15 +429,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "62.02%",
+    "uptime": "62.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "19.70%",
+    "uptimeYear": "19.97%",
     "time": 153,
-    "timeDay": 0,
-    "timeWeek": 187,
-    "timeMonth": 228,
+    "timeDay": 118,
+    "timeWeek": 179,
+    "timeMonth": 225,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2026-05-06": 239,
@@ -731,8 +731,7 @@
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,
-      "2025-07-19": 1440,
-      "2025-07-18": 1440
+      "2025-07-19": 1440
     }
   }
 ]
