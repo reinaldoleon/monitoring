@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 322,
-    "timeWeek": 153,
+    "timeDay": 60,
+    "timeWeek": 139,
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {}
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "58.75%",
+    "uptime": "58.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 84,
+      "2026-07-22": 83,
+      "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -397,8 +398,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 529,
-    "timeDay": 527,
-    "timeWeek": 400,
-    "timeMonth": 410,
+    "timeDay": 219,
+    "timeWeek": 393,
+    "timeMonth": 406,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2025-08-21": 34,
@@ -429,15 +429,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "62.12%",
+    "uptime": "62.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.79%",
+    "uptimeYear": "21.07%",
     "time": 153,
-    "timeDay": 202,
-    "timeWeek": 172,
-    "timeMonth": 209,
+    "timeDay": 159,
+    "timeWeek": 154,
+    "timeMonth": 210,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2026-05-06": 239,
@@ -727,8 +727,7 @@
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
-      "2025-07-23": 1440,
-      "2025-07-22": 1440
+      "2025-07-23": 1440
     }
   }
 ]
