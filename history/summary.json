@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 178,
-    "timeWeek": 160,
-    "timeMonth": 166,
+    "time": 135,
+    "timeDay": 124,
+    "timeWeek": 161,
+    "timeMonth": 164,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -23,10 +23,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "56.29%",
+    "uptime": "56.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-30": 166,
+      "2026-10-01": 172,
+      "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
@@ -397,8 +398,7 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
-      "2025-10-02": 1440,
-      "2025-10-01": 1440
+      "2025-10-02": 1440
     }
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 510,
-    "timeDay": 296,
-    "timeWeek": 361,
-    "timeMonth": 430,
-    "timeYear": 473,
+    "time": 509,
+    "timeDay": 266,
+    "timeWeek": 353,
+    "timeMonth": 421,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2025-12-05": 31,
       "2026-05-24": 119
@@ -428,15 +428,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "63.71%",
+    "uptime": "63.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.26%",
+    "uptimeYear": "40.54%",
     "time": 165,
-    "timeDay": 222,
-    "timeWeek": 279,
-    "timeMonth": 241,
+    "timeDay": 118,
+    "timeWeek": 273,
+    "timeMonth": 238,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2026-05-06": 239,
@@ -655,8 +655,7 @@
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
-      "2025-10-02": 1440,
-      "2025-10-01": 1440
+      "2025-10-02": 1440
     }
   }
 ]
