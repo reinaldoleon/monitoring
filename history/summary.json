@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 165,
-    "timeWeek": 154,
+    "timeDay": 137,
+    "timeWeek": 148,
     "timeMonth": 172,
-    "timeYear": 131,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "56.10%",
+    "uptime": "56.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-06": 218,
+      "2026-10-07": 185,
+      "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
@@ -397,8 +398,7 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
-      "2025-10-07": 1440
+      "2025-10-08": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 507,
-    "timeDay": 562,
-    "timeWeek": 394,
-    "timeMonth": 425,
-    "timeYear": 468,
+    "timeDay": 443,
+    "timeWeek": 415,
+    "timeMonth": 430,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2025-12-05": 31,
       "2026-05-24": 119
@@ -428,15 +428,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "63.84%",
+    "uptime": "63.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.91%",
+    "uptimeYear": "42.18%",
     "time": 166,
     "timeDay": 247,
-    "timeWeek": 188,
-    "timeMonth": 236,
+    "timeWeek": 191,
+    "timeMonth": 238,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2026-05-06": 239,
@@ -649,8 +649,7 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
-      "2025-10-07": 1440
+      "2025-10-08": 1440
     }
   }
 ]
