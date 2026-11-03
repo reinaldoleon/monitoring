@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 162,
-    "timeWeek": 175,
-    "timeMonth": 176,
-    "timeYear": 136,
+    "timeDay": 312,
+    "timeWeek": 202,
+    "timeMonth": 178,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "55.22%",
+    "uptime": "55.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-02": 185,
+      "2026-11-03": 263,
+      "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
@@ -397,8 +398,7 @@
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
-      "2025-11-04": 1440,
-      "2025-11-03": 1440
+      "2025-11-04": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 502,
-    "timeDay": 425,
-    "timeWeek": 455,
-    "timeMonth": 460,
+    "timeDay": 535,
+    "timeWeek": 472,
+    "timeMonth": 465,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-12-05": 31,
@@ -428,15 +428,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "64.41%",
+    "uptime": "64.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.30%",
+    "uptimeYear": "49.59%",
     "time": 172,
-    "timeDay": 210,
-    "timeWeek": 231,
-    "timeMonth": 234,
+    "timeDay": 285,
+    "timeWeek": 239,
+    "timeMonth": 238,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2026-05-06": 239,
@@ -622,8 +622,7 @@
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
-      "2025-11-04": 1440,
-      "2025-11-03": 1440
+      "2025-11-04": 1440
     }
   }
 ]
