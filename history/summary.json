@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 72,
-    "timeWeek": 184,
-    "timeMonth": 177,
+    "time": 137,
+    "timeDay": 219,
+    "timeWeek": 196,
+    "timeMonth": 179,
     "timeYear": 137,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "55.13%",
+    "uptime": "55.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-05": 240,
+      "2026-11-06": 238,
+      "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
@@ -397,8 +398,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 502,
-    "timeDay": 460,
-    "timeWeek": 477,
-    "timeMonth": 469,
+    "timeDay": 615,
+    "timeWeek": 528,
+    "timeMonth": 471,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-12-05": 31,
@@ -428,14 +428,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "64.47%",
+    "uptime": "64.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.14%",
-    "time": 172,
-    "timeDay": 213,
-    "timeWeek": 243,
+    "uptimeYear": "50.41%",
+    "time": 173,
+    "timeDay": 235,
+    "timeWeek": 246,
     "timeMonth": 240,
     "timeYear": 179,
     "dailyMinutesDown": {
@@ -619,8 +619,7 @@
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
-      "2025-11-07": 1440,
-      "2025-11-06": 1440
+      "2025-11-07": 1440
     }
   }
 ]
