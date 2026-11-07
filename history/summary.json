@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 219,
-    "timeWeek": 196,
+    "timeDay": 148,
+    "timeWeek": 193,
     "timeMonth": 179,
     "timeYear": 137,
     "dailyMinutesDown": {}
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "55.10%",
+    "uptime": "55.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-06": 238,
+      "2026-11-07": 213,
+      "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
       "2026-11-03": 1440,
@@ -397,8 +398,7 @@
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
-      "2025-11-08": 1440,
-      "2025-11-07": 1440
+      "2025-11-08": 1440
     }
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 502,
-    "timeDay": 615,
-    "timeWeek": 528,
-    "timeMonth": 471,
-    "timeYear": 458,
+    "time": 503,
+    "timeDay": 528,
+    "timeWeek": 525,
+    "timeMonth": 474,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2025-12-05": 31,
       "2026-05-24": 119
@@ -428,15 +428,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "64.49%",
+    "uptime": "64.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.41%",
+    "uptimeYear": "50.68%",
     "time": 173,
-    "timeDay": 235,
-    "timeWeek": 246,
-    "timeMonth": 240,
+    "timeDay": 240,
+    "timeWeek": 247,
+    "timeMonth": 239,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-05-06": 239,
@@ -618,8 +618,7 @@
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
-      "2025-11-08": 1440,
-      "2025-11-07": 1440
+      "2025-11-08": 1440
     }
   }
 ]
