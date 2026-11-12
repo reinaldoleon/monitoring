@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 209,
-    "timeWeek": 199,
-    "timeMonth": 195,
+    "time": 138,
+    "timeDay": 341,
+    "timeWeek": 238,
+    "timeMonth": 198,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "54.94%",
+    "uptime": "54.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-11": 213,
+      "2026-11-12": 282,
+      "2026-11-11": 1440,
       "2026-11-10": 1440,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
@@ -397,8 +398,7 @@
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
-      "2025-11-13": 1440,
-      "2025-11-12": 1440
+      "2025-11-13": 1440
     }
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 501,
-    "timeDay": 390,
-    "timeWeek": 448,
-    "timeMonth": 445,
-    "timeYear": 455,
+    "time": 500,
+    "timeDay": 244,
+    "timeWeek": 417,
+    "timeMonth": 437,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2025-12-05": 31,
       "2026-05-24": 119
@@ -428,15 +428,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "64.60%",
+    "uptime": "64.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.78%",
-    "time": 173,
-    "timeDay": 258,
-    "timeWeek": 224,
-    "timeMonth": 240,
+    "uptimeYear": "52.06%",
+    "time": 174,
+    "timeDay": 138,
+    "timeWeek": 213,
+    "timeMonth": 237,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2026-05-06": 239,
@@ -613,8 +613,7 @@
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
-      "2025-11-13": 1440,
-      "2025-11-12": 1440
+      "2025-11-13": 1440
     }
   }
 ]
