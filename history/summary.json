@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 69,
-    "timeWeek": 164,
-    "timeMonth": 198,
-    "timeYear": 140,
+    "timeDay": 310,
+    "timeWeek": 190,
+    "timeMonth": 204,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "54.62%",
+    "uptime": "54.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-21": 277,
+      "2026-11-22": 231,
+      "2026-11-21": 1440,
       "2026-11-20": 1440,
       "2026-11-19": 1440,
       "2026-11-18": 1440,
@@ -397,8 +398,7 @@
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
-      "2025-11-23": 1440,
-      "2025-11-22": 1440
+      "2025-11-23": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 495,
-    "timeDay": 123,
-    "timeWeek": 413,
-    "timeMonth": 445,
+    "timeDay": 868,
+    "timeWeek": 479,
+    "timeMonth": 463,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2025-12-05": 31,
@@ -428,15 +428,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "64.80%",
+    "uptime": "64.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.53%",
+    "uptimeYear": "54.79%",
     "time": 175,
-    "timeDay": 103,
-    "timeWeek": 188,
-    "timeMonth": 216,
+    "timeDay": 198,
+    "timeWeek": 193,
+    "timeMonth": 218,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-05-06": 239,
@@ -603,8 +603,7 @@
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
-      "2025-11-23": 1440,
-      "2025-11-22": 1440
+      "2025-11-23": 1440
     }
   }
 ]
