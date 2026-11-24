@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 83,
-    "timeWeek": 153,
+    "timeDay": 136,
+    "timeWeek": 157,
     "timeMonth": 193,
     "timeYear": 141,
     "dailyMinutesDown": {}
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nubersia.com.ico",
     "slug": "nubersia",
     "status": "down",
-    "uptime": "54.56%",
+    "uptime": "54.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-23": 269,
+      "2026-11-24": 445,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -397,8 +398,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 495,
-    "timeDay": 232,
-    "timeWeek": 435,
-    "timeMonth": 458,
-    "timeYear": 447,
+    "timeDay": 328,
+    "timeWeek": 434,
+    "timeMonth": 438,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-12-05": 31,
       "2026-05-24": 119
@@ -428,15 +428,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/zignaly.com.ico",
     "slug": "zignaly",
     "status": "up",
-    "uptime": "64.84%",
+    "uptime": "64.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "55.07%",
-    "time": 174,
-    "timeDay": 98,
-    "timeWeek": 183,
-    "timeMonth": 213,
+    "uptimeYear": "55.38%",
+    "time": 175,
+    "timeDay": 222,
+    "timeWeek": 187,
+    "timeMonth": 214,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-05-06": 239,
@@ -601,8 +601,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   }
 ]
